@@ -39,11 +39,11 @@ Sigue. Aunque no lo veas ahora, lo que estás haciendo importa. Ya estás más c
 
 ---
 
-## 💌 Carta de agradecimiento (Extra opcional)
+## 💌 Carta de agradecimiento 
 
-**Querida tutora:**
+**Querido tutor:**
 
 Gracias por tu presencia constante, incluso cuando no lo notábamos. Tu forma de acompañar, más que guiar, me enseñó el poder del silencio, del tiempo compartido y del respeto por el proceso de cada quien. Me marcaste profundamente y dejaste una huella de confianza que llevaré más allá de este ciclo.
 
 Con gratitud,  
-**[Tu nombre]**
+**Ismael**
