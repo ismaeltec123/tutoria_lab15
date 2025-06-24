@@ -10,8 +10,7 @@ Esta tutoría me enseñó a mirar hacia adentro. Aprendí que no necesito tener 
 
 ---
 
-## 🧱 Parte 2: Muro de gratitud simbólico ❤️
-
+## 🧱 Parte 2: Muro de gratitud simbólico 
 👤 **A una persona que me inspiró:**  
 Gracias, Carla, por ser constante y generosa. Tu forma de escuchar y estar presente sin juzgar me enseñó a confiar en mí.
 
@@ -39,7 +38,7 @@ Sigue. Aunque no lo veas ahora, lo que estás haciendo importa. Ya estás más c
 
 ---
 
-## 💌 Carta de agradecimiento 
+## Carta de agradecimiento 
 
 **Querido tutor:**
 
